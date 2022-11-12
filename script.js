@@ -9,8 +9,8 @@ function call(){
             <p style="margin-bottom: 40px;">
                 Al final de mi vida, luego de sentirme desvanecer en la oscuridad pura,
                 desperté en una habitación desconocida. 
-                Se trataba de un lugar muy iluminado, pero no había fuentes de luz a la vista,
-                -ninguna lámpara o pantalla- sino que la luz parecía emanar de las paredes. 
+                Se trataba de un lugar muy iluminado, pero sin fuentes de luz a la vista.
+                no ví ninguna lámpara o pantalla. la luz parecía emanar de las paredes. 
                 El piso, las paredes y el techo eran completamente blancos pero con un
                 Tenue Tono Violeta, casi impercepible. Sobre el techo se proyectaban
                 los patrones que produce la luz al reflejarse sobre la superficie del agua, 
@@ -20,7 +20,7 @@ function call(){
                 del punto donde desperté, más grande se volvía la habitación. cuando volvía hacia atras,
                 la habitación volvía a encogerse. no podia tocar las paredes. eran holográficas.
                 no podia cruzarlas, no podía hacer nada.
-                al caminar mi cuerpo se sentía raro. todo parecía un juego muy realista, en el sentido que
+                al caminar mi cuerpo se sentía raro. todo parecía un juego muy realista, en el aspecto que
                 todos mis sentidos estaban ahí, pero parecía que hubiese un espacio entre el estímulo
                 y la reacción. Como si estuviese anestesiado.
             </p>
@@ -83,7 +83,7 @@ function call(){
             antes de poder procesar algún otro pensamiento, en una de las paredes comenzo a aparecer un borrón oscuro del tamaño de una puerta. Era como un agujero negro pero sin un contorno sólido, sino que la oscuridad se desvanecia en un degradado. En segundos, el abismo al otro lado fue tomando forma de a poco, como una foto instantánea revelandose. Claramente era un agujero que guiaba hacia fuera de la habitación. Me acerque hacia el portal y pude ver claramente que a pocos pasos del otro lado había un largo pasillo de baldosas de cristal rojo, rodeadas de vacío puro. No dude ni un segundo en salir de la habitación y pararme sobre las baldosas. La transición del piso de la habitación al piso de baldosas me dio tranquilidad, porque apenas pise el suelo del pasillo, note que mis sentidos volvian a su lugar correcto. Sentia mi respiración y el frío de las baldosas. El pasillo se extendía como cien metros, en plena oscuridad y conforme avanzaba, las baldosas detrás mio se desvanecian. Al comienzo me asuste porque pense que se estaban cayendo, pero luego me di cuenta que si me detenía en un lugar, las baldosas dejaban de desvanecerse. Era como si hubiera un foco de luz siguiendome al caminar. ¿Son rojas las baldosas o quizás son de color cristal y hay una luz de tono rojizo encima mio? Sobre mi no habia ningún resplandor que confirmase mis pensamientos, pero al mirar hacia arriba un rato, me di cuenta que se iban formando pequeños puntos brillantes, miles de estrellas. cuanto más me quedaba mirando al vacío más detalles aparecían, de la misma manera que los ojos solo ven un par de estrellas cuando salimos de una habitación iluminada hacia afuera y miramos el cielo nocturno y conforme se adaptan los ojos aparecen todos los detalles. Al final del pasillo había alguien. una figura. Era una silueta con forma antropomórfica que daba reflejos. Parecia una estatua. Definitivamente era algo similar al mármol negro. Apenas la vi empece a sentir un fuerte olor a frutillas, pero era un olor artificial. Más que parecer el leve aroma que sale de las frutas frescas, parecía incienso de frutillas o aromatizante. En el momento que sentí el olor un escalofrío recorrio mi espalda y me dio un terror increíble. Nunca sentí más miedo en toda mi vida/muerte. Me quede paralizado por un tiempo largo. Por primera vez sentía una presencia ajena a la mía. Venía de la estatua. Me fui acercando con precaución. Llegue a alrededor 10 metros de la estatua. Tenía una altura similar a la mía y definitivamente era algo que reconocí enseguida: era Anubis, el dios egipcio de la muerte. Miles de pensamientos me pasaron
             por la cabeza. Me desmaye.</p>
 
-            <h2>anubis</h2>
+            <h2>habitación del tiempo</h2>
             <p style="margin-bottom: 40px;">
             una escalera de mármol negro completamente cubierta de piedras preciosas.
             un coral de brillos, tonos metálicos, transparentosos, lechosos,
@@ -94,7 +94,7 @@ function call(){
             ¿sentia el cuerpo?
             <p/>
 
-            <a href="#main">para arriba</a>
+            <a href="#main">¿dónde mierda estoy?</a>
 
         </div>
     
