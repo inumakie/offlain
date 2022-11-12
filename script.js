@@ -50,7 +50,7 @@ function call(){
             Un coral de brillos, tonos metálicos, transparentosos, lechosos,
             todo tipo de diamantes hermosos de todos los colores.
             Comencé a subir las escaleras y al llegar a la cima apareció otra puerta.
-            Salía brillo por los bordes del marco. Había olor a sal. ¿Sentía el cuerpo? ¿Tenía cuerpo?
+            Salía humo blanco por los bordes del marco. Había olor a sal.
             <p/>
 
             <a href="#main">¿dónde mierda estoy?</a>
