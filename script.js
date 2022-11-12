@@ -46,7 +46,11 @@ function call(){
 
             <h2>habitación del tiempo</h2>
             <p style="margin-bottom: 40px;">
-            Una escalera de mármol negro completamente cubierta de piedras preciosas. Un coral de brillos, tonos metálicos, transparentosos, lechosos, todo tipo de piedras hermosas de todos los colores. Comencé a subir las escaleras y al llegar a la cima de la escalera apareció otra puerta. Salía brillo por los bordes del marco. Había olor a sal. ¿Sentía el cuerpo?
+            Una escalera de mármol negro completamente cubierta de piedras preciosas.
+            Un coral de brillos, tonos metálicos, transparentosos, lechosos,
+            todo tipo de diamantes hermosos de todos los colores.
+            Comencé a subir las escaleras y al llegar a la cima apareció otra puerta.
+            Salía brillo por los bordes del marco. Había olor a sal. ¿Sentía el cuerpo? ¿Tenía cuerpo?
             <p/>
 
             <a href="#main">¿dónde mierda estoy?</a>
