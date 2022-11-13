@@ -5,18 +5,41 @@ function call(){
 
     content.innerHTML = `
         <div>
-            <h2>masticando celulares</h2>
+            <h2>sala de espera</h2>
             <p style="margin-bottom: 40px;">
-            Al final de mi vida, luego de sentirme desvanecer en la oscuridad pura, desperté en una habitación desconocida. Se trataba de un lugar muy iluminado, pero no había fuentes de luz a la vista, -ninguna lámpara o pantalla- sino que la luz parecía emanar de las paredes. El piso, las paredes y el techo eran completamente blancos pero con un Tenue Tono Violeta, casi imperceptible. Sobre el techo se proyectaban los patrones que produce la luz al reflejarse sobre la superficie del agua, líneas entrecortadas que dibujan las olas con una luz cristalina y bordes de arcoíris, pero no había agua a la vista. La habitación parecía muy pequeña, pero conforme empece a caminar y moverme, cambiaba su tamaño. Cuanto más me alejaba del punto donde desperté, más grande se volvía la habitación. Cuando volvía hacia atrás, la habitación volvía a encogerse. No podía tocar las paredes. Eran holográficas. No podía cruzarlas, no podía hacer nada. Al caminar mi cuerpo se sentía raro. Todo parecía un juego muy realista, en el sentido que todos mis sentidos estaban ahí, pero parecía que hubiese un espacio entre el estímulo y la reacción. Como si estuviese anestesiado.
+            Al final de mi vida, luego de sentirme desvanecer en la oscuridad pura, desperté en una habitación desconocida.
+            Se trataba de un lugar muy iluminado, pero sin fuentes de luz a la vista, -no había ninguna lámpara o pantalla-
+            la luz más bien parecía emanar de las paredes. El piso, las paredes y el techo eran completamente blancos
+            pero con un Tenue Tono Violeta, casi imperceptible. Sobre el techo se proyectaban los patrones que produce
+            la luz al reflejarse sobre la superficie del agua, esas líneas entrecortadas que dibujan las olas con una luz
+            cristalina y bordes de arcoíris, pero no había agua a la vista. La habitación parecía muy pequeña, 
+            pero conforme empece a caminar y moverme, cambiaba su tamaño. Cuanto más me alejaba del punto donde
+            desperté, más grande se volvía la habitación. Cuando volvía hacia atrás, la habitación volvía a encogerse.
+            No podía tocar las paredes. Eran holográficas. No podía cruzarlas, no podía hacer nada.
+            Al caminar mi cuerpo se sentía raro. Todo parecía un juego muy realista. Todos mis sentidos funcionaban, pero parecía que
+            hubiese un espacio entre el estímulo y la reacción. Como si estuviese anestesiado. Siento un fuerte golpe en la cabeza
+            y un segundo más tarde veo una luz blanca. Escucho mi propia voz decir '¿queee?' pero la escucho como a metros de
+            distancia. Siento que el cuerpo se me enfria, me apago.
             </p>
 
             <h2>UUNO</h2>
             <p style="margin-bottom: 40px;">
-            Aparece una mancha gigante en la atmósfera. Una formación de luces con forma de algas marinas levitan sobre el polo sur del planeta. Todas las personas sufren una alteración espontánea del sistema nervioso, que consiste en una momentánea falta de sensibilidad y un instinto por electrocutarse. Por un periodo de tiempo, nada duele ni daña y todos sienten sed de electricidad. Billones de personas dejan de lado lo que sea que estaban haciendo y comienzan a romper cables de todo tipo para exponer los filamentos conductores y saborear una dosis fuerte de electrones. Algunas personas muerden lámparas encendidas. Hay suicidios masivos en las estaciones de subte. Todo el ambiente se llena de flashes de luz blanca, humo y vapor. La mancha en la atmósfera desaparece y las luces con forma de algas salen disparadas a otro lugar del cosmos.            </p>
+            Primero aparece una mancha gigante en la atmósfera - como una catarata ocular, pero cubriendo una porción enorme del cielo.
+            Luego, una formación de varias luces de colores con forma de medusas sobrevuelan el polo sur del planeta.
+            Momentos más tarde, todas las personas sufren una alteración espontánea del sistema nervioso, que consiste en una momentánea
+            falta de sensibilidad y un instinto por electrocutarse. Por un periodo de horas, nada duele ni daña y todos sienten sed de electricidad.
+            Billones de personas dejan de lado lo que sea que estaban haciendo y comienzan a romper cables de todo tipo para exponer los filamentos
+            conductores y saborear una dosis fuerte de electrones. Algunas personas muerden lámparas encendidas. Hay suicidios masivos en las estaciones
+            de subte. Todo el ambiente se llena de flashes de luz blanca, humo y vapor. La mancha en la atmósfera desaparece y las luces/medusas salen
+            disparadas hacia otro lugar del cosmos.            </p>
 
             <h2>cero</h2>
             <p style="margin-bottom: 40px;">
-            La fantasía es lo más real que existe, "la realidad" es un algoritmo al que sometemos el cuerpo para vivir, pero, ¿para qué vas a someter el cuerpo a la vida si no te vas a permitir florecer tu cerebro? Darle colores y sonidos y comerlo como una sandia con el agua chorreando por las comisuras de los labios. Éctasis.
+            ¿para qué vas a someter tu cuerpo a la vida si no te vas a permitir florecer tu imaginación? ¿Por qué otro motivo estas 
+            comiendo todos los días y laburando para comer todos los días? Es por la fantasía. No te drogas para "evadir" la vida, lo haces
+            para vivir en realidad, para ver todas las formas que ofrece el cerebro. Por la imaginación, que es el lado más importante de la realidad.
+            La fantasía es la locura: crear cosas de otras cosas. darle colores y sonidos a las cosas y comer como una sandia con el agua
+            chorreando por las comisuras de los labios. Éctasis.
             </p>
 
             <h2>encuentro</h2>
